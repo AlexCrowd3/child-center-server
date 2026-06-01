@@ -1,0 +1,8 @@
+[2026-02-12T15:31:04.583Z] GET / 404 - 52ms
+[2026-02-12T15:31:04.603Z] GET /favicon.ico 404 - 1ms
+[2026-02-12T15:31:19.554Z] GET /api/admin 401 - 1ms
+[2026-02-12T15:31:38.365Z] GET /api/admin/admin-secret-key-123 401 - 0ms
+[2026-02-12T15:31:45.762Z] GET /api/admin-secret-key-123/admin 404 - 1ms
+[2026-02-12T15:31:50.488Z] GET /api/admin-secret-key-123 404 - 1ms
+[2026-02-12T15:31:57.602Z] GET /admin-secret-key-123 404 - 0ms
+[2026-02-12T15:43:44.283Z] GET /.well-known/appspecific/com.chrome.devtools.json 404 - 1ms
